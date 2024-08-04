@@ -42,11 +42,14 @@ header {
 }
 
 header > p {
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
     color: whitesmoke;
     max-width: 500px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 50px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.568);
 }
 
